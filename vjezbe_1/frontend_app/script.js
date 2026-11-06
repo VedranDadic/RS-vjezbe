@@ -1,4 +1,4 @@
-// Adresa backenda (zamijeni svojom, BEZ / na kraju)
+// Adresa backenda
 const API_URL = "https://miniblog-vdadic-api.onrender.com";
 
 
